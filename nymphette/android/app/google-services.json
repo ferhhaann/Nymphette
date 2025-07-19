@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439344746541",
+    "project_id": "nymphette-app",
+    "storage_bucket": "nymphette-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439344746541:android:b0fcc97b06074270c6a8a4",
+        "android_client_info": {
+          "package_name": "com.example.nymphette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJHTgns5kUbKtyctuK87CZAcygDiHObk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
